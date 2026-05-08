@@ -1,0 +1,15 @@
+Project Name: Git Practice Project
+
+Team Members:
+1. Sanjay
+2. Teammate
+
+Tasks:
+- Setup frontend
+- Setup backend
+- Add login page
+- Add dashboard
+- Fix navbar bug
+
+Notes:
+Initial project created on 08 May 2026.
